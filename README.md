@@ -5,6 +5,10 @@
 
 I'm a **4th-year B.Tech Computer Science & Engineering student** at **RR Institute of Modern Technology, Lucknow**, affiliated with **AKTU**.
 
+
+<p align="center">
+  <img src="avatar3.png" width="350" alt="Abhishek Pal">
+</p>
 I'm currently focused on building practical skills in **Data Analytics, Python, SQL, and Full-Stack Development** while working on projects that solve real-world problems.
 
 ---
